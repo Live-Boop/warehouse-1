@@ -8,6 +8,6 @@ Python版本：3.13
 第三方依赖：pandas
 
 ## 运行步骤
-1. 安装依赖：
+1. 安装依赖
 ```bash
 pip install pandas
